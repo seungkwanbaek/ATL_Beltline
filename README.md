@@ -1,11 +1,3 @@
-CS4400 Team 70 Phase 3
-
-Tasks: 
-1. create HTMLs
-2. A text file with all SQL statements for each task. (Follow the template in the Phase 2 design methodology).
-A set or sequence of SQL statements may be required in order to complete a given task. However, in such cases, the last SQL statement should show the output according to the specification.
-Views and nested queries may be used to support the tasks
-
 Database
 • MySQL v8.0 or later
 • Must use InnoDB engine (ENGINE = InnoDB) [default on non-CoC servers - should be default on most local installations as well]
