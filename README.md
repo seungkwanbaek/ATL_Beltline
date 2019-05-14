@@ -3,24 +3,10 @@ Database
 • Must use InnoDB engine (ENGINE = InnoDB) [default on non-CoC servers - should be default on most local installations as well]
 
 Back End: connects to the MySQL database in order to render the front end.
-• NodeJS (Express)
-• Python (Flask, PyMySQL)
-
-Front End: renders the information passed from the back end.
+• Python (Flask)
 
 Web Application
-• HTML/CSS/JavaScript
 • AngularJS (v1.x)
-• Angular (v4.x)
-• Vue.js
-• React
-• Bootstrap
-• jQuery
-
-Desktop Application
-• Python
-• PyQt4/PyQt5 with QtCore, QtGui, and QtWidgets • Electron • Qt (C++) using QtCore, QtGui, and QtWidgets.
-
 
 ### Backend
 * `python3, flask, pymysql`
